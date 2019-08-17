@@ -5,6 +5,11 @@ A NumPy binary search engine for HTML-based scientific documentation that over h
 **Abstracts:** Taking multiple html files text content as inputs put into NumPy array, give it sample error_rate and space-efficient probabilistic data structure been used if samples are too great. Dataset generated in binary for lower-bandwidth footprint, require
 external JavaScript module to help reading and download binary datasets file in a web browser.
 
+<p align="left">
+  <img src="Screenshot_1.png" height="250">
+  <img src="Screenshot_2.png" height="250">
+</p>
+
 ## repository
 
 clone this repository,
