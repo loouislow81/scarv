@@ -1,13 +1,13 @@
-# scarv.ai
+# scarv
 
-A NumPy binary search engine for HTML-based scientific documentation that over hundred of pages. `scrav.ai` is a dream come true for static page.
+A NumPy binary search engine for HTML-based scientific documentation that over hundred of pages. `scrav` is a dream come true for static page.
 
 **Abstracts:** Taking multiple html files text content as inputs put into NumPy array, give it sample error_rate and space-efficient probabilistic data structure been used if samples are too great. Dataset generated in binary for lower-bandwidth footprint, require
 external JavaScript module to help reading and download binary datasets file in a web browser.
 
 <p align="left">
-  <img src="Screenshot_1.png" height="250">
-  <img src="Screenshot_2.png" height="250">
+  <img src="Screenshot_1.png" width="420">
+  <img src="Screenshot_2.png" width="420">
 </p>
 
 ## repository
