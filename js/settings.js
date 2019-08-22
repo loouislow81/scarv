@@ -24,7 +24,7 @@ function callback() {
 
   // Sets up the page, that is now ready
   ready = true;
-  document.getElementById('main').innerHTML = '<y><form id="search_form" role="form"><label class="text-md text-grey-dark" for="search"><span class="text-grey text-lg font-bold">scarv.ai</span> binary search</label><y class="mt-4"><input class="block text-xl text-grey-darkest depth-wide px-4 py-2 rounded-lg w-full" type="text" id="search" name="search" placeholder="Query..." autofocus="autofocus"></y></form></y>';
+  document.getElementById('main').innerHTML = '<y><form id="search_form" role="form"><label class="text-md text-grey-dark" for="search"><span class="text-grey text-lg font-bold">scarv</span> binary search</label><y class="mt-4"><input class="block text-xl text-grey-darkest depth-wide px-4 py-2 rounded-lg w-full" type="text" id="search" name="search" placeholder="Query..." autofocus="autofocus"></y></form></y>';
 
   // Handle onchange actions
   document.getElementById('search').oninput = function (e) {
