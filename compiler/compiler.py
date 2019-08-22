@@ -33,13 +33,13 @@ arrow = color.BOLD + color.RED + ">>> " + color.END
 
 
 def banner():
-    desc  = '                                   \n'
-    desc += '  ___  ___ __ _ _ ____   ____ _(_) \n'
-    desc += ' / __|/ __/ _` | `__\ \ / / _` | | \n'
-    desc += ' \__ \ (_| (_| | |   \ V / (_| | | \n'
-    desc += ' |___/\___\__,_|_|    \_(_)__,_|_| \n'
-    desc += '                                   \n'
-    desc += ' $ ./compiler/compiler.py          \n'
+    desc  = '                            \n'
+    desc += '  ___  ___ __ _ _ ____   __ \n'
+    desc += ' / __|/ __/ _` | `__\ \ / / \n'
+    desc += ' \__ \ (_| (_| | |   \ V /  \n'
+    desc += ' |___/\___\__,_|_|    \_/   \n'
+    desc += '                            \n'
+    desc += ' $ ./compiler/compiler.py   \n'
     print(desc)
 
 banner()
